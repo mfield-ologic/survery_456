@@ -44,6 +44,7 @@
 		4C25D39D2AC541C3008C1326 /* Survey456UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Survey456UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C25D3A12AC541C3008C1326 /* Survey456UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Survey456UITests.swift; sourceTree = "<group>"; };
 		4C25D3A32AC541C3008C1326 /* Survey456UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Survey456UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4C25D3B02AC54422008C1326 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 		4C25D3852AC541C2008C1326 /* Survey456 */ = {
 			isa = PBXGroup;
 			children = (
+				4C25D3B02AC54422008C1326 /* Info.plist */,
 				4C25D3862AC541C2008C1326 /* Survey456App.swift */,
 				4C25D3882AC541C2008C1326 /* ContentView.swift */,
 				4C25D38A2AC541C3008C1326 /* Assets.xcassets */,
@@ -420,6 +422,7 @@
 				DEVELOPMENT_TEAM = SS9Y25M2XW;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Survey456/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -449,6 +452,7 @@
 				DEVELOPMENT_TEAM = SS9Y25M2XW;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Survey456/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
